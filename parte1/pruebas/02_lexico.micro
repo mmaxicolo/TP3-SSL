@@ -1,0 +1,4 @@
+inicio
+    a := 2 @ 3;
+    escribir(1);
+fin
